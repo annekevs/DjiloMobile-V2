@@ -45,12 +45,12 @@ export default function SubscriptionTermsScreen() {
           <View style={styles.termsContent}>
             <Text style={styles.termsText}>
               <Text style={styles.bold}>1. Abonnement et Paiement</Text>{'\n'}
-              • L'abonnement est renouvelé automatiquement selon la période choisie{\'\n'}
-              • Le paiement est prélevé à la date d'échéance{\'\n'}
+              • L'abonnement est renouvelé automatiquement selon la période choisie{'\n'}
+              • Le paiement est prélevé à la date d'échéance{'\n'}
               • Les prix peuvent être modifiés avec un préavis de 30 jours{'\n\n'}
 
               <Text style={styles.bold}>2. Accès aux Services</Text>{'\n'}
-              • Accès illimité aux programmes d'entraînement{\'\n'}
+              • Accès illimité aux programmes d'entraînement{'\n'}
               • Suivi personnalisé par un coach{'\n'}
               • Participation à la communauté{'\n'}
               • Support client 7j/7{'\n\n'}
