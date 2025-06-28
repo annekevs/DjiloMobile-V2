@@ -45,12 +45,12 @@ export default function SubscriptionTermsScreen() {
           <View style={styles.termsContent}>
             <Text style={styles.termsText}>
               <Text style={styles.bold}>1. Abonnement et Paiement</Text>{'\n'}
-              • L'abonnement est renouvelé automatiquement selon la période choisie{'\n'}
-              • Le paiement est prélevé à la date d'échéance{'\n'}
+              • L'abonnement est renouvelé automatiquement selon la période choisie{\'\n'}
+              • Le paiement est prélevé à la date d'échéance{\'\n'}
               • Les prix peuvent être modifiés avec un préavis de 30 jours{'\n\n'}
 
               <Text style={styles.bold}>2. Accès aux Services</Text>{'\n'}
-              • Accès illimité aux programmes d'entraînement{'\n'}
+              • Accès illimité aux programmes d'entraînement{\'\n'}
               • Suivi personnalisé par un coach{'\n'}
               • Participation à la communauté{'\n'}
               • Support client 7j/7{'\n\n'}
@@ -62,13 +62,13 @@ export default function SubscriptionTermsScreen() {
               • Signaler tout contenu inapproprié{'\n\n'}
 
               <Text style={styles.bold}>4. Propriété Intellectuelle</Text>{'\n'}
-              • Tous les contenus sont protégés par des droits d'auteur{'\n'}
+              • Tous les contenus sont protégés par des droits d'auteur{\'\n'}
               • Interdiction de reproduire ou distribuer les programmes{'\n'}
               • Les vidéos et exercices sont exclusifs aux abonnés{'\n\n'}
 
               <Text style={styles.bold}>5. Limitation de Responsabilité</Text>{'\n'}
               • Consultez un médecin avant de commencer tout programme{'\n'}
-              • FitCoach n'est pas responsable des blessures{'\n'}
+              • FitCoach n'est pas responsable des blessures{\'\n'}
               • Adaptez les exercices à votre condition physique
             </Text>
           </View>
@@ -92,7 +92,7 @@ export default function SubscriptionTermsScreen() {
 
               <Text style={styles.bold}>Remboursement</Text>{'\n'}
               • Remboursement intégral si annulation dans les 7 premiers jours{'\n'}
-              • Aucun remboursement après la période d'essai{'\n'}
+              • Aucun remboursement après la période d'essai{\'\n'}
               • Exceptions possibles en cas de problème technique majeur{'\n\n'}
 
               <Text style={styles.bold}>Suspension de compte</Text>{'\n'}
@@ -102,7 +102,7 @@ export default function SubscriptionTermsScreen() {
 
               <Text style={styles.bold}>Contact</Text>{'\n'}
               • Support disponible par email : support@fitcoach.com{'\n'}
-              • Chat en direct dans l'application{'\n'}
+              • Chat en direct dans l'application{\'\n'}
               • Réponse sous 24h en moyenne
             </Text>
           </View>
@@ -115,7 +115,7 @@ export default function SubscriptionTermsScreen() {
             <Text style={styles.termsText}>
               <Text style={styles.bold}>Collecte de données</Text>{'\n'}
               • Informations personnelles (nom, email, âge){'\n'}
-              • Données d'activité et de progression{'\n'}
+              • Données d'activité et de progression{\'\n'}
               • Préférences et objectifs{'\n'}
               • Données de paiement (sécurisées){'\n\n'}
 
