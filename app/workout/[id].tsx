@@ -83,8 +83,7 @@ export default function WorkoutDetailScreen() {
   };
 
   const handleStartWorkout = () => {
-    // Navigate to workout session screen
-    console.log('Starting workout:', workout.title);
+    router.push(`/workout-session/${workout.id}`);
   };
 
   const handleBookmark = () => {

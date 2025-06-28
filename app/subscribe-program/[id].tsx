@@ -76,7 +76,7 @@ export default function SubscribeProgramScreen() {
   };
 
   const handleSubscribe = () => {
-    router.push('/subscription-checkout');
+    router.push('/payment-method');
   };
 
   const getMonthlyPrice = (plan: any) => {
